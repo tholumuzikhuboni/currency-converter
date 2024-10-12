@@ -60,7 +60,7 @@ for ([key, value] of Object.entries(CURRENCY_LIST)) {
 //set default values
 function setDefaultValues() {
     from_currency.value = 'USD';
-    to_currency.value = 'MAD';
+    to_currency.value = 'ZAR';
     amount_input.value = '1';
     input_value.innerHTML = '1';
     input_currency.innerHTML = 'USD';
