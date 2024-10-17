@@ -41,4 +41,4 @@ This project is open source and available for use. Contributions are welcome!
 For more information or to connect with me:
 
 - **Portfolio**: [tholumuzi.co.za](https://tholumuzi.co.za)
-- **GitHub**: [github.com/tholumuzikhuboni](https://github.com/tholumuzikhuboni)
+- **GitHub**: [/tholumuzikhuboni](https://github.com/tholumuzikhuboni)
