@@ -1,5 +1,7 @@
-# Currency Converter Web App
+# Currency Converter
+## Preview
 
+![Currency Converter Preview](converter.png)
 A simple and intuitive web application for converting currencies, built using JavaScript, CSS, and HTML. This app allows users to easily convert between various currencies with a clean, responsive interface.
 
 ## Website URL
